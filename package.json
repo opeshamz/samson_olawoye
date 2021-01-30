@@ -1,11 +1,13 @@
 {
-  "name": "current-project",
+  "name": "fluterwave",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+
   "scripts": {
-    "devStart": "nodemon server.js"
+    "start": "nodemon server.js"
   },
+
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -15,5 +17,9 @@
   "devDependencies": {
     "dotenv": "^8.0.0",
     "nodemon": "^1.19.0"
+  },
+  "engines": {
+    "node": "15.5.1"
   }
+
 }
