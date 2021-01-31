@@ -12,7 +12,7 @@ router.get('/', (req, res) => {
     res.status(500).json({ message: err.message })
   }
 })
-// Creating one
+// Creating on
 router.post('/', (req, res) => {
 
   const scrams = {
