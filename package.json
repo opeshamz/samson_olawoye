@@ -8,11 +8,11 @@
     "start": "node server.js"
   },
 
-  "author": "",
+  "author": "samson olawoye ",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "mongoose": "^5.5.7"
+    "express": "^4.16.4"
+    
   },
   "devDependencies": {
 
